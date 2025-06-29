@@ -1,0 +1,16 @@
+{
+  "short_name": "Bayan IA",
+  "name": "Bayan IA: Sua Amiga Virtual",
+  "description": "Converse com Bayan, uma IA com alma e sotaque do Nordeste, pronta para ser sua confidente.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d8b4fe",
+  "background_color": "#ede9fe"
+}
